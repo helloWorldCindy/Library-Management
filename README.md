@@ -1,8 +1,11 @@
 # Library-Management
 
 Program author: Qianyi Yu, Yuzhong Hu
+
 Purpose: to let the user operate the Book Store Management System
+
 Source files: Course.cc, Book.cc, BookArray.cc, Computer.cc, Coat.cc, Cup.cc, Product.cc
+
 Header files: Course.h, Book.h, BookArray.h, BMScontrol.h, UImanager.h, Product.h, Computer.h, Coat.h, Cup.h, Dlist.h, MoreServices.h, defs.h
 
 Compilation command :
